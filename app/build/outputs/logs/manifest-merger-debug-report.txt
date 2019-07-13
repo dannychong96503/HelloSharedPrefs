@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\ee08398ee8c6aac5b7a5681a32323c09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f90b3669fdde3ccc73b6d681f7c7b65e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\923477c4e1e8cfb639008aa8da7e465d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b7ff0721b8b7a26cb8ef53f9413e2a54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\70457fe2fc6daf8febccf50f25017a85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8a776150bbe6ae6efcb41bb59cf53001\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\807be8c2441b00450df1fff4a3ab0b52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8e2182dd2bb55632404b00a24a5bcbc9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8786e875e00b3490937f6435ce97ac80\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\fb15d7b6ff089141ace2046a66d1fc82\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8d69654b3a5971a2617527de3e18c5d9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\bc04267219fc910995c0da58cf891c8d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:16:11-57
+		INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:11-69
+application
+ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f90b3669fdde3ccc73b6d681f7c7b65e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f90b3669fdde3ccc73b6d681f7c7b65e\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\ee08398ee8c6aac5b7a5681a32323c09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\ee08398ee8c6aac5b7a5681a32323c09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f90b3669fdde3ccc73b6d681f7c7b65e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f90b3669fdde3ccc73b6d681f7c7b65e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\923477c4e1e8cfb639008aa8da7e465d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\923477c4e1e8cfb639008aa8da7e465d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b7ff0721b8b7a26cb8ef53f9413e2a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b7ff0721b8b7a26cb8ef53f9413e2a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\70457fe2fc6daf8febccf50f25017a85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\70457fe2fc6daf8febccf50f25017a85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8a776150bbe6ae6efcb41bb59cf53001\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8a776150bbe6ae6efcb41bb59cf53001\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\807be8c2441b00450df1fff4a3ab0b52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\807be8c2441b00450df1fff4a3ab0b52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8e2182dd2bb55632404b00a24a5bcbc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8e2182dd2bb55632404b00a24a5bcbc9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8786e875e00b3490937f6435ce97ac80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8786e875e00b3490937f6435ce97ac80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\fb15d7b6ff089141ace2046a66d1fc82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\fb15d7b6ff089141ace2046a66d1fc82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8d69654b3a5971a2617527de3e18c5d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8d69654b3a5971a2617527de3e18c5d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\bc04267219fc910995c0da58cf891c8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\bc04267219fc910995c0da58cf891c8d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\Downloads\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
